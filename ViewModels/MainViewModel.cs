@@ -41,6 +41,7 @@ namespace MeterReadingApp.ViewModels
         public RelayCommand AddCommand { get; private set; }
         public RelayCommand DeleteCommand { get; private set; }
         public RelayCommand SaveCommand { get; private set; }
+        public RelayCommand InfCommand { get; private set; }
 
         public MainViewModel()
         {
@@ -48,7 +49,14 @@ namespace MeterReadingApp.ViewModels
             AddCommand = new RelayCommand(AddReading);
             DeleteCommand = new RelayCommand(DeleteReading, () => SelectedReading != null);
             SaveCommand = new RelayCommand(SaveToFile);
+            //InfCommand = new RelayCommand(InfAdd);
         }
+
+        //private void InfAdd()
+        //{
+        //    var fioMessage = new MeterReadingApp.Views.FIO();
+        //    fioMessage.ShowDialog();
+        //}
 
         private void AddReading()
         {
@@ -81,24 +89,6 @@ namespace MeterReadingApp.ViewModels
                 ShowError($"Ошибка при добавлении: {ex.Message}");
             }
         }
-
-        //private void AddWaterReading(int salinityValue)
-        //{
-        //    try
-        //    {
-        //        var waterReading = new WaterReading
-        //        {
-        //            Date = DateTime.Now,
-        //            Value = 0,
-        //            Salinity = salinityValue
-        //        };
-        //        Readings.Add(waterReading);
-        //    }
-        //    catch (ArgumentOutOfRangeException ex)
-        //    {
-        //        ShowError(ex.Message)
-        //    }
-        //}
 
         private void DeleteReading()
         {

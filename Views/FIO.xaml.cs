@@ -1,5 +1,4 @@
-﻿using MeterReadingApp.Views;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,25 +10,23 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace MeterReadingApp
+namespace MeterReadingApp.Views
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для FIO.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class FIO : Window
     {
-        public MainWindow()
+        public FIO()
         {
             InitializeComponent();
         }
 
-        private void InfAdd(object sender, RoutedEventArgs e)
+        private void Ok_Click(object sender, RoutedEventArgs e)
         {
-            var window = new FIO();
-            window.ShowDialog();
+            this.Close();
         }
     }
 }
