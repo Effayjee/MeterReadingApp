@@ -12,17 +12,25 @@ namespace MeterReadingApp.Helpers
 {
     public static class DataFileManager
     {
-        private const string FilePath = "data.txt";
+        internal static readonly string FilePath = "data.txt";
 
         public static List<MeterReading> Load()
         {
             var result = new List<MeterReading>();
+
             if (File.Exists(FilePath))
             {
                 var lines = File.ReadAllLines(FilePath);
                 foreach (var line in lines)
                 {
-                    result.Add(ReadingParser.Parse(line));
+                    try
+                    {
+                        result.Add(ReadingParser.Parse(line));
+                    }
+                    catch (Exception ex)
+                    {
+                        Logger.LogError($"Ошибка при разборе строки: \"{line}\". {ex.Message})");
+                    }
                 }
             }
             return result;

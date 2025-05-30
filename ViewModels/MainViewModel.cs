@@ -123,6 +123,7 @@ namespace MeterReadingApp.ViewModels
 
         private void ShowError(string message)
         {
+            Logger.LogError(message);
             var errorWindow = new MeterReadingApp.Views.ErrorDialog(message);
             errorWindow.ShowDialog();
         }

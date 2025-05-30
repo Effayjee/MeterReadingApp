@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MeterReadingApp.Helpers;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
@@ -17,7 +18,8 @@ namespace MeterReadingApp.Models
             set
             {
                 if (value < 0 || value > 100)
-                    throw new ArgumentOutOfRangeException("Соленость должна быть не больше 100 и не меньше 0");
+                    throw new ArgumentOutOfRangeException(nameof(Salinity), value, 
+                        "Соленость должна быть не больше 100 и не меньше 0");
                 _salinity = value;
                 OnPropertyChanged(nameof(Salinity));
             }

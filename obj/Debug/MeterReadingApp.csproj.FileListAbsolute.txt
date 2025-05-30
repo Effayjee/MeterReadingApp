@@ -1,0 +1,79 @@
+F:\lab\MeterReadingApp\bin\Debug\MeterReadingApp.exe.config
+F:\lab\MeterReadingApp\bin\Debug\MeterReadingApp.exe
+F:\lab\MeterReadingApp\bin\Debug\MeterReadingApp.pdb
+F:\lab\MeterReadingApp\obj\Debug\MeterReadingApp.csproj.AssemblyReference.cache
+F:\lab\MeterReadingApp\obj\Debug\MainWindow.g.cs
+F:\lab\MeterReadingApp\obj\Debug\App.g.cs
+F:\lab\MeterReadingApp\obj\Debug\MeterReadingApp_MarkupCompile.cache
+F:\lab\MeterReadingApp\obj\Debug\MeterReadingApp_MarkupCompile.lref
+F:\lab\MeterReadingApp\obj\Debug\MainWindow.baml
+F:\lab\MeterReadingApp\obj\Debug\MeterReadingApp.g.resources
+F:\lab\MeterReadingApp\obj\Debug\MeterReadingApp.Properties.Resources.resources
+F:\lab\MeterReadingApp\obj\Debug\MeterReadingApp.csproj.GenerateResource.cache
+F:\lab\MeterReadingApp\obj\Debug\MeterReadingApp.csproj.CoreCompileInputs.cache
+F:\lab\MeterReadingApp\obj\Debug\MeterReadingApp.exe
+F:\lab\MeterReadingApp\obj\Debug\MeterReadingApp.pdb
+F:\lab\MeterReadingApp\obj\Debug\MeterReadingApp.exe.config
+F:\lab\MeterReadingApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\lab\MeterReadingApp\obj\Debug\Views\ErrorDialog.g.cs
+F:\lab\MeterReadingApp\obj\Debug\Views\ErrorDialog.baml
+D:\Storage\8 семестр\тимп\MeterReadingApp\bin\Debug\MeterReadingApp.exe.config
+D:\Storage\8 семестр\тимп\MeterReadingApp\bin\Debug\MeterReadingApp.exe
+D:\Storage\8 семестр\тимп\MeterReadingApp\bin\Debug\MeterReadingApp.pdb
+D:\Storage\8 семестр\тимп\MeterReadingApp\obj\Debug\MeterReadingApp.csproj.AssemblyReference.cache
+D:\Storage\8 семестр\тимп\MeterReadingApp\obj\Debug\Views\ErrorDialog.baml
+D:\Storage\8 семестр\тимп\MeterReadingApp\obj\Debug\Views\ErrorDialog.g.cs
+D:\Storage\8 семестр\тимп\MeterReadingApp\obj\Debug\MainWindow.g.cs
+D:\Storage\8 семестр\тимп\MeterReadingApp\obj\Debug\App.g.cs
+D:\Storage\8 семестр\тимп\MeterReadingApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Storage\8 семестр\тимп\MeterReadingApp\obj\Debug\MeterReadingApp_MarkupCompile.cache
+D:\Storage\8 семестр\тимп\MeterReadingApp\obj\Debug\MeterReadingApp_MarkupCompile.lref
+D:\Storage\8 семестр\тимп\MeterReadingApp\obj\Debug\MainWindow.baml
+D:\Storage\8 семестр\тимп\MeterReadingApp\obj\Debug\MeterReadingApp.g.resources
+D:\Storage\8 семестр\тимп\MeterReadingApp\obj\Debug\MeterReadingApp.Properties.Resources.resources
+D:\Storage\8 семестр\тимп\MeterReadingApp\obj\Debug\MeterReadingApp.csproj.GenerateResource.cache
+D:\Storage\8 семестр\тимп\MeterReadingApp\obj\Debug\MeterReadingApp.csproj.CoreCompileInputs.cache
+D:\Storage\8 семестр\тимп\MeterReadingApp\obj\Debug\MeterReadingApp.exe
+D:\Storage\8 семестр\тимп\MeterReadingApp\obj\Debug\MeterReadingApp.pdb
+D:\Storage\8 семестр\тимп\MeterReadingApp\obj\Debug\Views\FIO.baml
+D:\Storage\8 семестр\тимп\MeterReadingApp\obj\Debug\Views\FIO.g.cs
+F:\MeterReadingApp\bin\Debug\MeterReadingApp.exe.config
+F:\MeterReadingApp\bin\Debug\MeterReadingApp.exe
+F:\MeterReadingApp\bin\Debug\MeterReadingApp.pdb
+F:\MeterReadingApp\obj\Debug\MeterReadingApp.csproj.AssemblyReference.cache
+F:\MeterReadingApp\obj\Debug\Views\ErrorDialog.baml
+F:\MeterReadingApp\obj\Debug\Views\FIO.baml
+F:\MeterReadingApp\obj\Debug\Views\ErrorDialog.g.cs
+F:\MeterReadingApp\obj\Debug\MainWindow.g.cs
+F:\MeterReadingApp\obj\Debug\Views\FIO.g.cs
+F:\MeterReadingApp\obj\Debug\App.g.cs
+F:\MeterReadingApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\MeterReadingApp\obj\Debug\MeterReadingApp_MarkupCompile.cache
+F:\MeterReadingApp\obj\Debug\MeterReadingApp_MarkupCompile.lref
+F:\MeterReadingApp\obj\Debug\MainWindow.baml
+F:\MeterReadingApp\obj\Debug\MeterReadingApp.g.resources
+F:\MeterReadingApp\obj\Debug\MeterReadingApp.Properties.Resources.resources
+F:\MeterReadingApp\obj\Debug\MeterReadingApp.csproj.GenerateResource.cache
+F:\MeterReadingApp\obj\Debug\MeterReadingApp.csproj.CoreCompileInputs.cache
+F:\MeterReadingApp\obj\Debug\MeterReadingApp.exe
+F:\MeterReadingApp\obj\Debug\MeterReadingApp.pdb
+E:\MeterReadingApp\bin\Debug\MeterReadingApp.exe.config
+E:\MeterReadingApp\bin\Debug\MeterReadingApp.exe
+E:\MeterReadingApp\bin\Debug\MeterReadingApp.pdb
+E:\MeterReadingApp\obj\Debug\MeterReadingApp.csproj.AssemblyReference.cache
+E:\MeterReadingApp\obj\Debug\Views\ErrorDialog.baml
+E:\MeterReadingApp\obj\Debug\Views\FIO.baml
+E:\MeterReadingApp\obj\Debug\Views\ErrorDialog.g.cs
+E:\MeterReadingApp\obj\Debug\MainWindow.g.cs
+E:\MeterReadingApp\obj\Debug\Views\FIO.g.cs
+E:\MeterReadingApp\obj\Debug\App.g.cs
+E:\MeterReadingApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\MeterReadingApp\obj\Debug\MeterReadingApp_MarkupCompile.cache
+E:\MeterReadingApp\obj\Debug\MeterReadingApp_MarkupCompile.lref
+E:\MeterReadingApp\obj\Debug\MainWindow.baml
+E:\MeterReadingApp\obj\Debug\MeterReadingApp.g.resources
+E:\MeterReadingApp\obj\Debug\MeterReadingApp.Properties.Resources.resources
+E:\MeterReadingApp\obj\Debug\MeterReadingApp.csproj.GenerateResource.cache
+E:\MeterReadingApp\obj\Debug\MeterReadingApp.csproj.CoreCompileInputs.cache
+E:\MeterReadingApp\obj\Debug\MeterReadingApp.exe
+E:\MeterReadingApp\obj\Debug\MeterReadingApp.pdb
